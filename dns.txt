@@ -1,0 +1,4 @@
+#Dns list untuk diblcok AdGuardHome
+#by Abraham 
+#date 10/01/2021
+xnxx.com
